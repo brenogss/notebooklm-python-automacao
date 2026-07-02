@@ -2,27 +2,27 @@
 
 ## 🐍 Python
 
-- Python Documentation
-- Real Python
+- Python Documentation: https://docs.python.org/3/
+- Real Python: https://realpython.com/
 
 ## 📊 Manipulação de Dados
 
-- Pandas
-- OpenPyXL
+- Pandas: https://pandas.pydata.org/docs/
+- OpenPyXL: https://openpyxl.readthedocs.io/en/stable/
 
 ## 🌐 APIs
 
-- Requests
+- Requests: https://requests.readthedocs.io/en/latest/
 
 ## 🤖 Automação Web
 
-- Playwright
-- Selenium
+- Playwright: https://playwright.dev/python/docs/intro
+- Selenium: https://www.selenium.dev/documentation/webdriver/
 
 ## 🖥️ Automação Desktop
 
-- PyAutoGUI
+- PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/
 
 ## 📖 Referência
 
-- Automate the Boring Stuff with Python
+- Automate the Boring Stuff with Python: https://automatetheboringstuff.com/
